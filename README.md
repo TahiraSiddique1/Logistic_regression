@@ -46,39 +46,6 @@ The goal is to understand how different features influence whether a customer su
 
 ---
 
-## 🚀 Getting Started  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/your-username/banking-data-analysis.git
-cd banking-data-analysis
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Run the notebook / script
-
-Open Jupyter Notebook:
-
-jupyter notebook banking_analysis.ipynb
-
-
-Or run Python script:
-
-python banking_analysis.py
-
-###📊 Sample Outputs
-Target Distribution by Job
-
-(Example visualization from project)
-
-
-Correlation Heatmap
-
-**###🎯 Insights**
-
-Certain job types and marital statuses show higher/lower subscription rates.
-
-Loan status and past marketing outcomes significantly influence predictions.
 
 Age alone yields ~81% accuracy, but combining multiple features can further improve performance.
 
