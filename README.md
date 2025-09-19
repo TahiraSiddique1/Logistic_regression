@@ -47,7 +47,3 @@ The goal is to understand how different features influence whether a customer su
 ---
 
 
-Age alone yields ~81% accuracy, but combining multiple features can further improve performance.
-
-
-
